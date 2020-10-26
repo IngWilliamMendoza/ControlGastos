@@ -1,8 +1,21 @@
 body {}
 
 .container {
+    width: 90%;
+    margin: auto;
     color: brown;
+    text-align: left;
+}
+
+.cabecera {
     text-align: center;
+    height: 30%;
+    background-color: cornsilk;
+    align-content: center;
+}
+
+.container p {
+    color: darkblue;
 }
 
 .container.imagen {
