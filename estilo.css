@@ -1,4 +1,10 @@
-body {}
+header {
+    background-color: blue;
+    width: 90%;
+    height: 4em;
+    margin: auto;
+    padding: 0.1em 0.1em;
+}
 
 .container {
     width: 90%;
@@ -34,4 +40,17 @@ body {}
         object-fit: cover;
         object-position: center center;
     }
+}
+
+footer {
+    width: 90%;
+    height: 2em;
+    margin: auto;
+    background: blue;
+}
+
+#pie {
+    color: aliceblue;
+    font-size: 1.5em;
+    text-align: center;
 }
