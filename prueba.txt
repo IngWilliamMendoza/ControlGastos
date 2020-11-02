@@ -21,6 +21,8 @@ git log > log.txt - guardar los logs en un archivo txt
 
 vamos a hacer commit a master por 2 vez
 
+realice la creacion de la rama "experimento"
+
 "vamos a hacer unas pruebas para utilizar el comando rebase"
 
 
