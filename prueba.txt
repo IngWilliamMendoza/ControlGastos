@@ -23,6 +23,8 @@ vamos a hacer commit a master por 2 vez
 
 realice la creacion de la rama "experimento"
 
+agrego esta linea para realizar un segundo commit
+
 "vamos a hacer unas pruebas para utilizar el comando rebase"
 
 
